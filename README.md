@@ -22,6 +22,6 @@ you should be good to go :) !
  <tr>
   <td><img src="https://github.com/Mohammadhsmhs/ripple_button/blob/master/screenshots/1.png" width="300" /></td>
   <td><img src="https://github.com/Mohammadhsmhs/ripple_button/blob/master/screenshots/2.png" width="300" /></td>
-  <td><img src="https://github.com/Mohammadhsmhs/ripple_button/blob/master/screenshots/3.gif.png" width="300" /></td>
+  <td><img src="https://github.com/Mohammadhsmhs/ripple_button/blob/master/screenshots/3.gif" width="300" /></td>
  </tr>
  <table>
